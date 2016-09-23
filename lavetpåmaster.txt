@@ -1,0 +1,3 @@
+README.md
+lavetpåmaster.txt
+mydir.txt
